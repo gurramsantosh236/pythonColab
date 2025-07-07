@@ -1,5 +1,4 @@
-Santoshkumar Gurram
-please share the last session Mysql code
+
 import mysql.connector
 from tabulate import tabulate
  
